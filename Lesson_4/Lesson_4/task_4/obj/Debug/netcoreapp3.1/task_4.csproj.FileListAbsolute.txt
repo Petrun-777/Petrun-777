@@ -1,0 +1,12 @@
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.exe
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.deps.json
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.runtimeconfig.json
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.runtimeconfig.dev.json
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.dll
+D:\University\Epam\Lesson_4\Lesson_4\task_4\bin\Debug\netcoreapp3.1\task_4.pdb
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.AssemblyInfoInputs.cache
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.AssemblyInfo.cs
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.csproj.CoreCompileInputs.cache
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.dll
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.pdb
+D:\University\Epam\Lesson_4\Lesson_4\task_4\obj\Debug\netcoreapp3.1\task_4.genruntimeconfig.cache
