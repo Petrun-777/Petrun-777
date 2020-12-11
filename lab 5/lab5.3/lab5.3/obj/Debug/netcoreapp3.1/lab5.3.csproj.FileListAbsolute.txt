@@ -1,0 +1,13 @@
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.exe
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.deps.json
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.runtimeconfig.json
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.runtimeconfig.dev.json
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.dll
+D:\University\Epam\lab 5\lab5.3\lab5.3\bin\Debug\netcoreapp3.1\lab5.3.pdb
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.AssemblyInfoInputs.cache
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.AssemblyInfo.cs
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.csproj.CoreCompileInputs.cache
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.dll
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.pdb
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.genruntimeconfig.cache
+D:\University\Epam\lab 5\lab5.3\lab5.3\obj\Debug\netcoreapp3.1\lab5.3.csprojAssemblyReference.cache

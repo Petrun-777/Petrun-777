@@ -1,0 +1,13 @@
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.exe
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.deps.json
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.runtimeconfig.json
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.runtimeconfig.dev.json
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.dll
+D:\University\Epam\lab 5\lab_5.1\bin\Debug\netcoreapp3.1\lab_5.1.pdb
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.csprojAssemblyReference.cache
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.AssemblyInfoInputs.cache
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.AssemblyInfo.cs
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.csproj.CoreCompileInputs.cache
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.dll
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.pdb
+D:\University\Epam\lab 5\lab_5.1\obj\Debug\netcoreapp3.1\lab_5.1.genruntimeconfig.cache
