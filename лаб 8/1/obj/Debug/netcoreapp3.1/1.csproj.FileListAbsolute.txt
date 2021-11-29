@@ -1,4 +1,0 @@
-D:\University\Epam\лаб 8\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
-D:\University\Epam\лаб 8\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
-D:\University\Epam\лаб 8\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
-D:\University\Epam\лаб 8\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
